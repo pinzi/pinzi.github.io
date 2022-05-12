@@ -8,8 +8,8 @@ subtitle: '欢迎访问风总的Github博客'
 description: '风总的Github博客'
 keywords:
 author: pinzi
-language: zh-cn
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
